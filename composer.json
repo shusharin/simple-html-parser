@@ -1,6 +1,7 @@
 {
   "name": "shusharin/simple-html-parser",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "type": "library",
   "description": "",
   "require": {
