@@ -1,0 +1,17 @@
+{
+  "name": "shusharin/simple-html-parser",
+  "type": "library",
+  "description": "",
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "SimpleHtmlParser\\": "src/SimpleHtmlParser"
+    }
+  }
+}
