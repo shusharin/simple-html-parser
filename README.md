@@ -1,12 +1,13 @@
 Just for fun. Not for production!
+-------
 
-HTML parser.
+# HTML parser.
 
 Install
 -------
 
 ```bash
-$ composer require shusharin/simple-html-parser
+$ composer require shusharin/simple-html-parser:dev-main
 ```
 
 Basic Usage
