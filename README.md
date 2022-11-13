@@ -6,6 +6,19 @@ Just for fun. Not for production!
 Install
 -------
 
+Add in composer.json
+
+```json
+...
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/shusharin/simple-html-parser"
+    }
+],
+...
+```
+
 ```bash
 $ composer require shusharin/simple-html-parser:dev-main
 ```
